@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Tarea 1</title>
+		<link rel="stylesheet" type="text/css" href="static/css/main.css">
+	  <script src="static/js/jquery-1.9.1.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="static/semantic/semantic.min.css">
+	  <script src="static/semantic/semantic.min.js"></script>
+		<script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.7/mapbox.js'></script>
+		<link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.7/mapbox.css' rel='stylesheet' />
+	  <script src="static/js/main.js"></script>
+		<link rel="stylesheet" type="text/css" href="static/css/jquery.datetimepicker.css">
+	  <script src="static/js/jquery.datetimepicker.js"></script>
+		<script>
+			L.mapbox.accessToken = 'pk.eyJ1IjoiYmVuaW1hbiIsImEiOiJWOEZzS1JJIn0.dbJnVVc2UcANaVWu55zIfg';
+		</script>
+	</head>
+	<body>
+		<div class=" main-content">
+		<!-- MAIN HEADER -->
+			<h2 class="ui center aligned icon header">
+			  <i class="world icon"></i>
+			  <div class="content">
+			    Mapa Interactivo
+			    <div class="sub header">Para el correcto funcionamiento de la pagina, evitar usar google chrome. <u>Recomendado usar safari.</u></div>
+			  </div>
+			</h2>
+
+
+		<!-- TAB MENU -->
+			<div class="ui top attached tabular menu">
+		    <div class="item active link" data-tab="general_info">Informacion General</div>
+		    <div class="item link" data-tab="explore_user" id="button">Explorar Usuario y Amistades</div>
+		  </div>
+		  <!-- END TAB MENU -->
+
+		  <!-- FIRST TAB -->
+			<div class="ui bottom attached active tab segment" data-tab="general_info">
+				<h2 class="ui header">
+				  <i class="file text outline icon"></i>
+				  <div class="content">
+				   	Resumen del Data-set
+				  </div>
+				</h2>
+				<div class="ui mini horizontal statistics center-align">
+					<div class="ui two column grid">
+						<div class="column">
+						  <div class="statistic">
+						    <div class="value">
+						      <i class="user icon"></i>11326
+						    </div>
+						    <div class="label">
+						      Usuarios
+						    </div>
+						  </div>
+					    <div class="statistic">
+						    <div class="value">
+						      <i class="marker icon"></i> 187218
+						    </div>
+						    <div class="label">
+						      Ubicaciones
+						    </div>
+						  </div>
+	  				  <div class="statistic">
+						    <div class="value">
+						      <i class="users icon"></i>8,3
+						    </div>
+						    <div class="label">
+						      Amigos por usuario
+						    </div>
+						  </div>
+						</div>
+						<div class="column">
+					    <div class="statistic">
+						    <div class="value">
+						      <i class="checkmark icon"></i> 2290997
+						    </div>
+						    <div class="label">
+						      Check-ins
+						    </div>
+						  </div>
+						  <div class="statistic">
+						    <div class="value">
+						      <i class="checkmark icon"></i> 12,2
+						    </div>
+						    <div class="label">
+						      Check-ins por lugar
+						    </div>
+						  </div>
+						  <div class="statistic">
+						    <div class="value">
+						      <i class="checkmark icon"></i> 202,3
+						    </div>
+						    <div class="label">
+						      Check-ins por usuario
+						    </div>
+						  </div>
+					  </div>
+					</div>
+				</div>
+				<h2 class="ui header">
+				  <i class="map icon"></i>
+				  <div class="content">
+				   Mapa (Marcadores con fotos)
+				  </div>
+				</h2>
+				<div id="map-canvas" class="map"></div>
+		  </div>
+		  <!-- END FIRST TAB -->
+
+		  <!-- SECOND TAB -->
+			<div class="ui bottom attached tab segment" data-tab="explore_user">
+				<h2 class="ui header">
+				  <i class="map icon"></i>
+				  <div class="content">
+				   	Explorar
+				  </div>
+				</h2>
+				<div class="ui three column grid">
+					<div class="divided row">
+				    <div class="column">
+					    <h3 class="ui header">Usuarios</h3>
+				    	<select class="ui fluid dropdown">
+							  <option value="">Usuarios</option>
+							  <option value="965">Usuario 1</option>
+							  <option value="8852">Usuario 2</option>
+							  <option value="10590">Usuario 3</option>
+							</select>
+				    </div>
+				    <div class="column">
+					    <h3 class="ui header">Opciones</h3>
+				    	<div class="ui form">
+							  <div class="field">
+							    <div class="ui slider checkbox" id="friends_checkbox">
+								    <input type="checkbox" name="show_friends">
+								    <label>Mostrar Amigos</label>
+								  </div>
+								</div>
+							  <div class="field">
+							    <div class="ui slider checkbox" id="rutes_checkbox">
+								    <input type="checkbox" name="show_rutes">
+								    <label>Mostrar Rutas</label>
+								  </div>
+								</div>
+							</div>
+				    </div>
+				    <div class="column">
+				    	<h3 class="ui header">Filtros</h3>
+				    	<div class="ui form">
+							  <div class="ten wide field">
+						    	<input id="start_datetimepicker" placeholder="Desde" type="text" >
+						    </div>
+							  <div class="ten wide field">
+						    	<input id="end_datetimepicker" placeholder="Hasta" type="text" >
+						    </div>
+						  </div>
+						</div>
+					</div>
+					<div class="row">
+				    <div class="sixteen wide column">
+	  					<div id="map-canvas-2" class="map"></div>
+				    </div>
+			    </div>
+				</div>
+		  </div>
+		  <!-- END SECOND TAB -->
+		</div>
+	  <script src="static/js/map.js"></script>
+	  <!-- SCRIPT HIDDEN MAP RESIZE -->
+		<script type="text/javascript">
+		$('.tabular.menu .item').tab({onTabLoad: function () {
+				map2.invalidateSize();
+			}});
+		</script>
+	</body>
+</html>

@@ -1,0 +1,48 @@
+.main-content {
+	margin-top: 50px;
+	width: 65%;
+	height: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	min-width: 600px;
+}
+
+
+
+
+h2 {
+	margin-top: 0px !important;
+}
+
+.map {
+	height: 500px;
+}
+
+.center-align {
+	padding-left: 50px !important;
+	padding-right: 50px !important;
+}
+
+.photo {
+	width: auto;
+	height: 120px;
+}
+
+path {
+  stroke-dasharray: 1000;
+  animation: dash 6s linear forwards;
+  stroke-dashoffset: 1000;
+  -webkit-animation: dash 6s linear forwards;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@-webkit-keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
