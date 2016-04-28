@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<meta http-equiv="content-type" content="text/html; charset=UTF8">
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no,width=device-width' />
+
+<link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/dc/1.7.5/dc.css" media="screen" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.js"></script>
+<script type="text/javascript" src="https://rawgithub.com/NickQiZhu/dc.js/master/web/js/crossfilter.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/dc/1.7.5/dc.min.js"></script>
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+<link rel="stylesheet" href="./css/skeleton.css">
+
+<body>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="twelve columns" id="data-count">
+      <h1>Historial de Expediciones a Cumbres en Chile
+      </h1>
+      <h5>
+        <span class="filter-count"></span> de <span class="total-count"></span> expediciones -
+         <a id="all" href="#">reset all</a>
+        </span>
+      </h5>
+    </div>
+  </div>
+  <div class="row">
+    <div class="one column"></div>
+    <div class="five columns" id='dating'>
+      <div class="row3">
+        <div class="four columns" id="yeardiv">
+          <h4>
+            <img src="css/img/date.png" alt="Mountain View" style="width:25px;height:25px;">
+            Año <small> - <a id="year" href="#">reset</a></small></h4>
+          <div id="year-chart"></div>
+        </div>
+        <div class="four columns" id='monthdiv'>
+          <h4>
+            <img src="css/img/date.png" alt="Mountain View" style="width:25px;height:25px;">
+            Mes <small> - <a id="month" href="#">reset</a></small></h4>
+          <div id="month-chart"></div>
+        </div>
+        <div class="four columns" id='daydiv'>
+          <h4>
+            <img src="css/img/date.png" alt="Mountain View" style="width:25px;height:25px;">
+            Día <small> - <a id="day" href="#">reset</a></small></h4>
+          <div id="day-chart"></div>
+        </div>
+      </div>
+      <div class="twelve columns" id='datediv'>
+        <div id="date-chart"></div>
+      </div>
+    </div>
+    <div class="three columns" id="countrydiv">
+      <h4>
+        <img src="css/img/fllag.png" alt="Mountain View" style="width:25px;height:25px;">
+        Nacionalidades <small> - <a id="country" href="#">reset</a></small> </h4>
+      <div id="country-pie"></div>
+    </div>
+
+    <div class="three columns">
+      <h4>
+        <img src="css/img/location.png" alt="Mountain View" style="width:25px;height:25px;">
+        Localizaciones</h4>
+      <div id="map"></div>
+    </div>
+
+  </div>
+  <div class="row" id='bottom'>
+    <div class="one column"></div>
+    <div class="eleven columns" id="cumbrediv">
+      <h1>
+        <img src="css/img/cumbres.png" alt="Mountain View" style="width:45px;height:45px;">
+        Cumbres  <small> - <a id="cumbre" href="#">reset</a></small></h1>
+      <div id="cumbres-chart"></div>
+    </div>
+  </div>
+  <div class="row" id='footer'>
+    <div class="twelve columns" >
+      <h1>IIC1005 - Computación: Ciencia y Tecnología del Mundo Digital - PUC</h1>
+      <h2>Fernando Florenzano</h2>
+    </div>
+  </div>
+</div>
+
+
+
+<script>
+
+var map = L.map('map');
+var breweryMarkers = new L.FeatureGroup();
+L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+  id: 'fdoflorenzano.pecmk1aa',
+  style: 'mapbox://styles/fdoflorenzano/cimng3d3b0037ahm7pudr1z6c',
+  accessToken: 'pk.eyJ1IjoiZmRvZmxvcmVuemFubyIsImEiOiJjaWx2b2ZkNmgwMWsxdWJrc2cyOHB0ZzFuIn0.ID3XHPpuYWdyXHNmdyeyFQ',
+  maxZoom: 16
+} ).addTo(map);
+
+var countryPie = dc.pieChart('#country-pie');
+var yearChart = dc.pieChart('#year-chart');
+var monthChart = dc.pieChart('#month-chart');
+var dayChart = dc.pieChart('#day-chart');
+var dateChart = dc.lineChart('#date-chart');
+var cumbresChart = dc.barChart('#cumbres-chart');
+var dataCount = dc.dataCount('#data-count');
+
+var colors = d3.scale.category20c();
+var celeste = d3.scale.ordinal().range(['#00C0D8']);
+var amarillo = d3.scale.ordinal().range(['#ffd800']);
+var celestes = d3.scale.ordinal().range(['#85F1FF',
+  '#1FE5FF','#00D8F5','#00C0D8','#00B4CC','#00A2B8',
+  '#0090A3','#007E8F','#006C7A']);
+var mapScale = d3.scale.log().range([5,30]);
+
+var widthYear = document.getElementById('yeardiv').offsetWidth;
+var widthMonth = document.getElementById('monthdiv').offsetWidth;
+var widthDay = document.getElementById('daydiv').offsetWidth;
+var widthDate = document.getElementById('datediv').offsetWidth;
+var widthCountry = document.getElementById('countrydiv').offsetWidth;
+var widthCumbre = document.getElementById('cumbrediv').offsetWidth;
+
+d3.csv('tarea1.csv', function (data) {
+
+  var Locations = {};
+
+  var dateFormat = d3.time.format('%Y-%m-%d').parse ;
+  data.forEach(function (d) {
+    d.Date = dateFormat(d.Fecha);
+    d.Year = d.Date.getFullYear();
+    d.Month = d.Date.getMonth();
+    d.DayOfWeek = d.Date.getDay();
+    if (!(d.Cumbre in Locations)) {
+      Locations[d.Cumbre] = [d.Latitud,d.Longitud]
+    }
+  });
+
+  var ndx = crossfilter(data);
+
+  var all = ndx.groupAll();
+  var allDim = ndx.dimension(function(d) {return d;});
+  var countryDim  = ndx.dimension(function(d) {return d.Pais;});
+  var countryTotal = countryDim.group();
+  var yearDim  = ndx.dimension(function(d) {return d.Year;});
+  var yearTotal = yearDim.group();
+  var monthDim =  ndx.dimension(function(d){ return d.Month;});
+  var monthTotal = monthDim.group();
+  var dayDim =  ndx.dimension(function(d){ return d.DayOfWeek;});
+  var dayTotal = dayDim.group();
+  var dateDim  = ndx.dimension(function(d) {return d.Date;});
+  var dateTotal = dateDim.group();
+  var dateMin = dateDim.bottom(1)[0].Date;
+  var dateMax = dateDim.top(1)[0].Date;
+  var cumbresDim =  ndx.dimension(function(d){ return d.Cumbre;});
+  var cumbresTotal = cumbresDim.group();
+  var cumbresMax = cumbresTotal.reduceCount().top(1)[0].value;
+
+  dataCount
+    .dimension(ndx)
+    .group(all);
+
+  countryPie
+    .width(widthCountry).height(widthCountry)
+    .dimension(countryDim)
+    .group(countryTotal)
+    .colors(celestes)
+    .innerRadius(widthCountry*0.2)
+    .colorAccessor(function(d,i){return i%5 ;})
+    .minAngleForLabel(0.2)
+    .legend(dc.legend());
+
+    yearChart
+    .width(widthYear).height(widthYear)
+    .dimension(yearDim)
+    .group(yearTotal)
+    .innerRadius(widthYear*0.2)
+    .colors(celestes)
+    .colorAccessor(function(d,i){return (i)%6;});
+
+    monthChart
+    .width(widthMonth).height(widthMonth)
+    .dimension(monthDim)
+    .group(monthTotal)
+    .innerRadius(widthMonth*0.2)
+    .minAngleForLabel(0.1)
+    .colors(celestes)
+    .colorAccessor(function(d,i){return (i)%3;})
+    .label(function(d){
+      var month = [ 'Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago',
+                'Sep', 'Oct', 'Nov', 'Dic'];
+      return month[d.data.key] ;
+      })
+    .title(function(d){
+      var month = [ 'Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago',
+                'Sep', 'Oct', 'Nov', 'Dic'];
+      return month[d.data.key]+ ": " + d.value ;
+      });
+
+    dayChart
+    .width(widthDay).height(widthDay)
+    .dimension(dayDim)
+    .group(dayTotal)
+    .innerRadius(widthDay*0.2)
+    .colors(celestes)
+    .colorAccessor(function(d,i){return (i)%4;})
+    .label(function(d){
+      var dayOfWeek = [ 'Lun', 'Mar', 'Mie', 'Jue', 'Vie', 'Sab', 'Dom'];
+      return dayOfWeek[d.data.key] ;
+      })
+    .title(function(d){
+      var dayOfWeek = [ 'Lun', 'Mar', 'Mie', 'Jue', 'Vie', 'Sab', 'Dom'];
+      return dayOfWeek[d.data.key]+ ": " + d.value ;
+      });
+
+    dateChart
+    .width(widthDate).height(widthDate*0.3)
+    .dimension(dateDim)
+    .group(dateTotal)
+    .x(d3.time.scale().domain([dateMin,dateMax]))
+    .colors(celeste)
+    .xAxisLabel('Fecha')
+    .yAxisLabel('Nº Expediciones')
+    .elasticY(true)
+    .yAxis().ticks(5);
+
+    cumbresChart
+    .width(widthCumbre).height(widthCumbre*0.3)
+    .dimension(cumbresDim)
+    .group(cumbresTotal)
+    .margins({ top: 10, right: 10, bottom: widthCumbre*0.1, left: 80 })
+    .x(d3.scale.ordinal())
+    .xUnits(dc.units.ordinal)
+    .elasticY(true)
+    .yAxisLabel('Nº Expediciones')
+    .renderlet(maping)
+    .colors(amarillo)
+    .on("postRender", function (c) {
+    d3.selectAll('#cumbres-chart .axis.x text').style("text-anchor", "end")
+    .attr("transform", function (d) { return "rotate(-45, -4, 9) "; });
+   })
+    .yAxis().ticks(7);
+
+    function maping (t) {
+      console.log(cumbresTotal);
+
+      var Locs = {};
+      var max = 0;
+      cumbresDim.top(Infinity).forEach(function(d){
+      if(!(Locs[d.Cumbre])){
+        Locs[d.Cumbre] = 1;
+        if(max==0){max = 1;}
+      }
+      else{
+        Locs[d.Cumbre] += 1;
+        if(Locs[d.Cumbre]>max){ max = Locs[d.Cumbre];}
+      }});
+
+      mapScale.domain([1,max]);
+      breweryMarkers.clearLayers();
+      for(d in Locs) {
+          var name = d;
+          var cantidad = Locs[d];
+          var marker = L.circleMarker(Locations[name],
+            {color: '#ffd800',fillColor: '#ffd800',
+            fillOpacity: 0.5}).setRadius(mapScale(cantidad));
+          marker.bindPopup("<p>" + name + ": "+ cantidad+ "</p>"+
+                "<p>" + Locations[name] + "</p>");
+          breweryMarkers.addLayer(marker);
+      };
+      map.addLayer(breweryMarkers);
+      map.fitBounds(breweryMarkers.getBounds());
+    };
+
+  dc.renderAll();
+
+  d3.selectAll('a#all').on('click', function () {
+    dc.filterAll();
+    dc.renderAll();
+  });
+  d3.selectAll('a#year').on('click', function () {
+    yearChart.filterAll();
+    dc.redrawAll();
+  });
+  d3.selectAll('a#month').on('click', function () {
+    monthChart.filterAll();
+    dc.redrawAll();
+  });
+  d3.selectAll('a#day').on('click', function () {
+    dayChart.filterAll();
+    dc.redrawAll();
+  });
+  d3.selectAll('a#cumbre').on('click', function () {
+    cumbresChart.filterAll();
+    dc.redrawAll();
+  });
+  d3.selectAll('a#date').on('click', function () {
+    dateChart.filterAll();
+    dc.redrawAll();
+  });
+  d3.selectAll('a#country').on('click', function () {
+    countryPie.filterAll();
+    dc.redrawAll();
+  });
+
+
+});
+</script>
+</body>
