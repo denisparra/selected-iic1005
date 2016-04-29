@@ -694,8 +694,8 @@
       ],
       "cumbres": [
         {
-          "lat": -31.281825,
-          "lon": -64.3086484,
+          "lat": -25.4333333,
+          "lon": -67.25,
           "nombre": "Cerro Incahuasi"
         },
         {
@@ -826,22 +826,6 @@
         }
       ],
       "numero": 37
-    },
-    {
-      "andinistas": [
-        {
-          "numero": 1,
-          "pais": "Argentina"
-        }
-      ],
-      "cumbres": [
-        {
-          "lat": -42.75530759999999,
-          "lon": -65.0585799,
-          "nombre": "Cerro C\u00f3ndor"
-        }
-      ],
-      "numero": 38
     },
     {
       "andinistas": [
@@ -1233,13 +1217,13 @@
           "nombre": "Cerro Los Patos"
         },
         {
-          "lat": -34.6173429,
-          "lon": -58.5595981,
+          "lat": -30.298333,
+          "lon": -69.901111,
           "nombre": "Cerro Olivares"
         },
         {
-          "lat": -34.6172666,
-          "lon": -58.5591813,
+          "lat": -29.938888,
+          "lon": -69.907222,
           "nombre": "Cerro Las T\u00f3rtolas"
         }
       ],
@@ -1583,8 +1567,8 @@
           "nombre": "Nevado Ojos del Salado"
         },
         {
-          "lat": -31.281825,
-          "lon": -64.3086484,
+          "lat": -25.4333333,
+          "lon": -67.25,
           "nombre": "Cerro Incahuasi"
         }
       ],
@@ -1826,8 +1810,8 @@
       ],
       "cumbres": [
         {
-          "lat": -34.6172666,
-          "lon": -58.5591813,
+          "lat": -29.938888,
+          "lon": -69.907222,
           "nombre": "Cerro Las T\u00f3rtolas"
         }
       ],
@@ -1990,8 +1974,8 @@
       ],
       "cumbres": [
         {
-          "lat": -34.6172666,
-          "lon": -58.5591813,
+          "lat": -29.938888,
+          "lon": -69.907222,
           "nombre": "Cerro Las T\u00f3rtolas"
         }
       ],
@@ -2746,8 +2730,8 @@
       ],
       "cumbres": [
         {
-          "lat": -34.6164637,
-          "lon": -58.5615698,
+          "lat": -33.0402777,
+          "lon": -70.0836111,
           "nombre": "Cerro Juncal"
         }
       ],
@@ -2988,8 +2972,8 @@
           "nombre": "Nevado Tres Cruces"
         },
         {
-          "lat": -31.281825,
-          "lon": -64.3086484,
+          "lat": -25.4333333,
+          "lon": -67.25,
           "nombre": "Cerro Incahuasi"
         },
         {
@@ -4031,8 +4015,8 @@
       ],
       "cumbres": [
         {
-          "lat": -34.6172666,
-          "lon": -58.5591813,
+          "lat": -29.938888,
+          "lon": -69.907222,
           "nombre": "Cerro Las T\u00f3rtolas"
         }
       ],
@@ -4327,8 +4311,8 @@
           "nombre": "Volc\u00e1n Llullaillaco"
         },
         {
-          "lat": -31.281825,
-          "lon": -64.3086484,
+          "lat": -25.4333333,
+          "lon": -67.25,
           "nombre": "Cerro Incahuasi"
         },
         {
@@ -4469,8 +4453,8 @@
       ],
       "cumbres": [
         {
-          "lat": -34.6173429,
-          "lon": -58.5595981,
+          "lat": -30.298333,
+          "lon": -69.901111,
           "nombre": "Cerro Olivares"
         }
       ],
@@ -4757,8 +4741,8 @@
           "nombre": "Nevado Tres Cruces"
         },
         {
-          "lat": -31.281825,
-          "lon": -64.3086484,
+          "lat": -25.4333333,
+          "lon": -67.25,
           "nombre": "Cerro Incahuasi"
         }
       ],
@@ -5560,8 +5544,8 @@
       ],
       "cumbres": [
         {
-          "lat": -34.6172666,
-          "lon": -58.5591813,
+          "lat": -29.938888,
+          "lon": -69.907222,
           "nombre": "Cerro Las T\u00f3rtolas"
         }
       ],
@@ -6482,8 +6466,8 @@
           "nombre": "Cerro Guane Guane"
         },
         {
-          "lat": -14.2644444,
-          "lon": -71.3238889,
+          "lat": -18.9366666,
+          "lon": -69.0213888,
           "nombre": "Cerro Chihuana"
         }
       ],
@@ -7298,8 +7282,8 @@
       ],
       "cumbres": [
         {
-          "lat": -14.0266667,
-          "lon": -76.1161111,
+          "lat": -20.8721,
+          "lon": -70.10593,
           "nombre": "Cerro Rojo"
         },
         {
@@ -7621,13 +7605,13 @@
           "nombre": "Nevado Tres Cruces"
         },
         {
-          "lat": -34.6173429,
-          "lon": -58.5595981,
+          "lat": -30.298333,
+          "lon": -69.901111,
           "nombre": "Cerro Olivares"
         },
         {
-          "lat": -34.6172666,
-          "lon": -58.5591813,
+          "lat": -29.938888,
+          "lon": -69.907222,
           "nombre": "Cerro Las T\u00f3rtolas"
         }
       ],
