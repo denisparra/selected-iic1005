@@ -1,0 +1,153 @@
+/* Structure */
+body {
+    font: 300 36px "Helvetica Neue", "Ubuntu", "Courier New", "sans-serif";
+    display: block;
+}
+.Controls {
+    font-size:18px;
+    width: 400px;
+    display: block;
+    float: right;
+    padding: 1em;
+    background-color: #fafafa;
+}
+#stats {
+    margin-top: 2em;
+}
+.Views{
+    float:left;
+    width: 640px;
+}
+.Controls label {
+    float: left;
+}
+.Controls input {
+    float: right;
+}
+.dLabel {
+    text-align: right;
+    float: right;
+}
+ul {
+    padding: 0;
+    list-style: none;
+}
+li {
+    padding: 20px;
+}
+
+/* Content */
+.users {
+    display: block;
+    float: left;
+    padding: 1em;
+    background-color: #eee;
+}
+.papers {
+    display: block;
+    float: right;
+    padding: 1em;
+    background-color: #eee;
+}
+.rel {
+    display: inline-block;
+}
+
+/* Text */
+h1, h2, h3 {
+    font-weight: inherit;
+    margin: 0;
+}
+h2, h3 {
+    text-align: right;
+    font-size: inherit;
+}
+h1 {
+    font-size: 64px;
+}
+h2 {
+    font-size: 24px;
+}
+h3 {
+    font-size: 18px;
+}
+#stats_text {
+    text-align: right;
+}
+
+/* SVG */
+blockquote {
+    margin: 0;
+}
+blockquote:before {
+    content: "â€œ";
+    position: absolute;
+    left: -.4em;
+}
+blockquote:after {
+    content: "â€";
+    position: absolute;
+}
+a:link, a:visited {
+    color: #777;
+    text-decoration: none;
+}
+a:hover {
+    color: #666;
+}
+.invert {
+    background: #1f1f1f;
+    color: #dcdccc;
+}
+.invert h2, .invert h3 {
+    color: #7f9f7f;
+}
+.string, .regexp {
+    color: #f39;
+}
+.keyword {
+    color: #00c;
+}
+.comment {
+    color: #777;
+    font-style: oblique;
+}
+.number {
+    color: #369;
+}
+.class, .special {
+    color: #1181B8;
+}
+path.arc {
+    cursor: move;
+    fill: #fff;
+}
+.node {
+    font-size: 10px;
+}
+.node:hover {
+    fill: #1f77b4;
+}
+.link {
+    fill: none;
+    stroke: #1f77b4;
+    stroke-opacity: .4;
+    stroke-width: 0.2px;
+    pointer-events: none;
+}
+.link.source, .link.target {
+    stroke-opacity: 1;
+    stroke-width: 2px;
+}
+.node.target {
+    fill: #d62728 !important;
+}
+.link.source {
+    stroke: #d62728;
+}
+.node.source {
+    fill: #2ca02c;
+}
+.link.target {
+    stroke: #2ca02c;
+}

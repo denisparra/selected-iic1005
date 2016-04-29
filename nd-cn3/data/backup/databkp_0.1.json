@@ -1,0 +1,3282 @@
+[
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=16", 
+            "date": "2013-02-24", 
+            "labelShort": "Peter Brusilovsky", 
+            "label": "Peter Brusilovsky"
+        }, 
+        "name": "user.16.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=17", 
+            "date": "2013-02-13", 
+            "labelShort": "Chirayu Wongchokprasitti", 
+            "label": "Chirayu Wongchokprasitti"
+        }, 
+        "name": "user.17.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=78", 
+            "date": "2013-02-25", 
+            "labelShort": "Denis Parra", 
+            "label": "Denis Parra"
+        }, 
+        "name": "user.78.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=96", 
+            "date": "2013-02-21", 
+            "labelShort": "Sharon Hsiao", 
+            "label": "Sharon Hsiao"
+        }, 
+        "name": "user.96.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=190", 
+            "date": "2013-02-08", 
+            "labelShort": "Danielle H. Lee", 
+            "label": "Danielle H. Lee"
+        }, 
+        "name": "user.190.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=216", 
+            "date": "2013-02-22", 
+            "labelShort": "jameshowison", 
+            "label": "jameshowison"
+        }, 
+        "name": "user.216.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001505", 
+            "date": "2013-02-21", 
+            "labelShort": "Andrea Forte", 
+            "label": "Andrea Forte"
+        }, 
+        "name": "user.3001505.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001520", 
+            "date": "2013-01-22", 
+            "labelShort": "Kurt Luther", 
+            "label": "Kurt Luther"
+        }, 
+        "name": "user.3001520.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001551", 
+            "date": "2013-02-18", 
+            "labelShort": "Jonathan Grudin", 
+            "label": "Jonathan Grudin"
+        }, 
+        "name": "user.3001551.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001579", 
+            "date": "2013-01-11", 
+            "labelShort": "Oded Nov", 
+            "label": "Oded Nov"
+        }, 
+        "name": "user.3001579.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001601", 
+            "date": "2013-01-23", 
+            "labelShort": "Kevin Crowston", 
+            "label": "Kevin Crowston"
+        }, 
+        "name": "user.3001601.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001622", 
+            "date": "2013-02-23", 
+            "labelShort": "Andrea Wiggins", 
+            "label": "Andrea Wiggins"
+        }, 
+        "name": "user.3001622.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001631", 
+            "date": "2013-02-16", 
+            "labelShort": "Julia Bullard", 
+            "label": "Julia Bullard"
+        }, 
+        "name": "user.3001631.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001646", 
+            "date": "2013-02-27", 
+            "labelShort": "R.Stuart Geiger", 
+            "label": "R.Stuart Geiger"
+        }, 
+        "name": "user.3001646.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001659", 
+            "date": "2013-01-31", 
+            "labelShort": "Matthew Bietz", 
+            "label": "Matthew Bietz"
+        }, 
+        "name": "user.3001659.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001698", 
+            "date": "2013-02-01", 
+            "labelShort": "Wayne Lutters", 
+            "label": "Wayne Lutters"
+        }, 
+        "name": "user.3001698.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001699", 
+            "date": "2013-02-26", 
+            "labelShort": "Radaphat Chongthammakun", 
+            "label": "Radaphat Chongthammakun"
+        }, 
+        "name": "user.3001699.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001728", 
+            "date": "2013-01-21", 
+            "labelShort": "Leanne Bowler", 
+            "label": "Leanne Bowler"
+        }, 
+        "name": "user.3001728.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001762", 
+            "date": "2013-02-21", 
+            "labelShort": "Betsy Rolland", 
+            "label": "Betsy Rolland"
+        }, 
+        "name": "user.3001762.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001768", 
+            "date": "2013-02-23", 
+            "labelShort": "Cecilia Aragon", 
+            "label": "Cecilia Aragon"
+        }, 
+        "name": "user.3001768.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001778", 
+            "date": "2013-02-26", 
+            "labelShort": "Charlotte Lee", 
+            "label": "Charlotte Lee"
+        }, 
+        "name": "user.3001778.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001859", 
+            "date": "2013-01-21", 
+            "labelShort": "Rosta Farzan", 
+            "label": "Rosta Farzan"
+        }, 
+        "name": "user.3001859.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3001954", 
+            "date": "2013-02-15", 
+            "labelShort": "Danyel Fisher", 
+            "label": "Danyel Fisher"
+        }, 
+        "name": "user.3001954.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3002843", 
+            "date": "2013-02-15", 
+            "labelShort": "Shuguang Han", 
+            "label": "Shuguang Han"
+        }, 
+        "name": "user.3002843.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=3002910", 
+            "date": "2013-01-03", 
+            "labelShort": "Bart Knijnenburg", 
+            "label": "Bart Knijnenburg"
+        }, 
+        "name": "user.3002910.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100000014", 
+            "date": "2013-02-15", 
+            "labelShort": "Gloria Mark", 
+            "label": "Gloria Mark"
+        }, 
+        "name": "user.100000014.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100000037", 
+            "date": "2013-01-24", 
+            "labelShort": "Alan Said", 
+            "label": "Alan Said"
+        }, 
+        "name": "user.100000037.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100000955", 
+            "date": "2013-02-16", 
+            "labelShort": "Steve Howard", 
+            "label": "Steve Howard"
+        }, 
+        "name": "user.100000955.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100000963", 
+            "date": "2013-02-26", 
+            "labelShort": "Xidao Wen", 
+            "label": "Xidao Wen"
+        }, 
+        "name": "user.100000963.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001030", 
+            "date": "2013-02-10", 
+            "labelShort": "Amy Bruckman", 
+            "label": "Amy Bruckman"
+        }, 
+        "name": "user.100001030.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001040", 
+            "date": "2013-02-24", 
+            "labelShort": "Christoph Trattner", 
+            "label": "Christoph Trattner"
+        }, 
+        "name": "user.100001040.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001113", 
+            "date": "2013-02-06", 
+            "labelShort": "Mengyao Chu", 
+            "label": "Mengyao Chu"
+        }, 
+        "name": "user.100001113.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001172", 
+            "date": "2013-02-25", 
+            "labelShort": "Robert Kraut", 
+            "label": "Robert Kraut"
+        }, 
+        "name": "user.100001172.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001178", 
+            "date": "2013-01-04", 
+            "labelShort": "Scott Bateman", 
+            "label": "Scott Bateman"
+        }, 
+        "name": "user.100001178.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001389", 
+            "date": "2013-01-16", 
+            "labelShort": "Anne-Maritta Tervakari", 
+            "label": "Anne-Maritta Tervakari"
+        }, 
+        "name": "user.100001389.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001390", 
+            "date": "2012-12-14", 
+            "labelShort": "Zhen Chen", 
+            "label": "Zhen Chen"
+        }, 
+        "name": "user.100001390.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001402", 
+            "date": "2013-02-07", 
+            "labelShort": "Katharina Reinecke", 
+            "label": "Katharina Reinecke"
+        }, 
+        "name": "user.100001402.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001403", 
+            "date": "2013-01-09", 
+            "labelShort": "Jin-Woo Jeong", 
+            "label": "Jin-Woo Jeong"
+        }, 
+        "name": "user.100001403.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001406", 
+            "date": "2013-02-18", 
+            "labelShort": "Mayur Karnik", 
+            "label": "Mayur Karnik"
+        }, 
+        "name": "user.100001406.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001407", 
+            "date": "2013-01-08", 
+            "labelShort": "Cliff Lampe", 
+            "label": "Cliff Lampe"
+        }, 
+        "name": "user.100001407.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001408", 
+            "date": "2013-02-27", 
+            "labelShort": "Himanshu Verma", 
+            "label": "Himanshu Verma"
+        }, 
+        "name": "user.100001408.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001409", 
+            "date": "2013-01-08", 
+            "labelShort": "Winter Mason", 
+            "label": "Winter Mason"
+        }, 
+        "name": "user.100001409.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001412", 
+            "date": "2013-02-02", 
+            "labelShort": "Jordan Barlow", 
+            "label": "Jordan Barlow"
+        }, 
+        "name": "user.100001412.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001413", 
+            "date": "2013-01-08", 
+            "labelShort": "Raja Gumienny", 
+            "label": "Raja Gumienny"
+        }, 
+        "name": "user.100001413.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001416", 
+            "date": "2013-01-08", 
+            "labelShort": "Libby Hemphill", 
+            "label": "Libby Hemphill"
+        }, 
+        "name": "user.100001416.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001417", 
+            "date": "2013-02-26", 
+            "labelShort": "Stephanie Steinhardt", 
+            "label": "Stephanie Steinhardt"
+        }, 
+        "name": "user.100001417.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001419", 
+            "date": "2013-01-08", 
+            "labelShort": "Therese Dugan", 
+            "label": "Therese Dugan"
+        }, 
+        "name": "user.100001419.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001420", 
+            "date": "2013-01-08", 
+            "labelShort": "Gina Venolia", 
+            "label": "Gina Venolia"
+        }, 
+        "name": "user.100001420.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001421", 
+            "date": "2013-01-08", 
+            "labelShort": "Lana Yarosh", 
+            "label": "Lana Yarosh"
+        }, 
+        "name": "user.100001421.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001422", 
+            "date": "2013-01-08", 
+            "labelShort": "Saurabh Srivastava", 
+            "label": "Saurabh Srivastava"
+        }, 
+        "name": "user.100001422.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001423", 
+            "date": "2013-01-08", 
+            "labelShort": "Sarah D\\'Angelo", 
+            "label": "Sarah D\\'Angelo"
+        }, 
+        "name": "user.100001423.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001424", 
+            "date": "2013-02-24", 
+            "labelShort": "R. Kelly Garrett", 
+            "label": "R. Kelly Garrett"
+        }, 
+        "name": "user.100001424.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001425", 
+            "date": "2013-02-22", 
+            "labelShort": "Hazim Almuhimedi", 
+            "label": "Hazim Almuhimedi"
+        }, 
+        "name": "user.100001425.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001426", 
+            "date": "2013-02-26", 
+            "labelShort": "Michael Brooks", 
+            "label": "Michael Brooks"
+        }, 
+        "name": "user.100001426.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001429", 
+            "date": "2013-01-08", 
+            "labelShort": "Yong Ming Kow", 
+            "label": "Yong Ming Kow"
+        }, 
+        "name": "user.100001429.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001430", 
+            "date": "2013-01-08", 
+            "labelShort": "Naomi Yamashita", 
+            "label": "Naomi Yamashita"
+        }, 
+        "name": "user.100001430.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001431", 
+            "date": "2013-01-09", 
+            "labelShort": "Taiwoo Park", 
+            "label": "Taiwoo Park"
+        }, 
+        "name": "user.100001431.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001433", 
+            "date": "2013-01-09", 
+            "labelShort": "Leif Singer", 
+            "label": "Leif Singer"
+        }, 
+        "name": "user.100001433.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001434", 
+            "date": "2013-01-21", 
+            "labelShort": "Abdallah El Ali", 
+            "label": "Abdallah El Ali"
+        }, 
+        "name": "user.100001434.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001436", 
+            "date": "2013-02-23", 
+            "labelShort": "Sarita Yardi Schoenebeck", 
+            "label": "Sarita Yardi Schoenebeck"
+        }, 
+        "name": "user.100001436.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001439", 
+            "date": "2013-02-18", 
+            "labelShort": "Lauren Scissors", 
+            "label": "Lauren Scissors"
+        }, 
+        "name": "user.100001439.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001440", 
+            "date": "2013-02-15", 
+            "labelShort": "Katie Kuksenok", 
+            "label": "Katie Kuksenok"
+        }, 
+        "name": "user.100001440.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001442", 
+            "date": "2013-01-17", 
+            "labelShort": "Jodi Schneider", 
+            "label": "Jodi Schneider"
+        }, 
+        "name": "user.100001442.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001445", 
+            "date": "2013-01-13", 
+            "labelShort": "Tariq Andersen", 
+            "label": "Tariq Andersen"
+        }, 
+        "name": "user.100001445.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001447", 
+            "date": "2013-01-13", 
+            "labelShort": "Pamela Hinds", 
+            "label": "Pamela Hinds"
+        }, 
+        "name": "user.100001447.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001448", 
+            "date": "2013-01-14", 
+            "labelShort": "Youyang Hou", 
+            "label": "Youyang Hou"
+        }, 
+        "name": "user.100001448.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001450", 
+            "date": "2013-01-14", 
+            "labelShort": "Yiftach Nagar", 
+            "label": "Yiftach Nagar"
+        }, 
+        "name": "user.100001450.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001451", 
+            "date": "2013-02-24", 
+            "labelShort": "Yongsung Kim", 
+            "label": "Yongsung Kim"
+        }, 
+        "name": "user.100001451.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001463", 
+            "date": "2013-01-27", 
+            "labelShort": "Tamara Peyton", 
+            "label": "Tamara Peyton"
+        }, 
+        "name": "user.100001463.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001465", 
+            "date": "2013-01-28", 
+            "labelShort": "Dan Halgin", 
+            "label": "Dan Halgin"
+        }, 
+        "name": "user.100001465.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001468", 
+            "date": "2013-02-01", 
+            "labelShort": "KyoungHee Son", 
+            "label": "KyoungHee Son"
+        }, 
+        "name": "user.100001468.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001472", 
+            "date": "2013-02-01", 
+            "labelShort": "Jessica Vitak", 
+            "label": "Jessica Vitak"
+        }, 
+        "name": "user.100001472.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001476", 
+            "date": "2013-02-03", 
+            "labelShort": "Helena", 
+            "label": "Helena"
+        }, 
+        "name": "user.100001476.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001512", 
+            "date": "2013-02-24", 
+            "labelShort": "Taehun Kim", 
+            "label": "Taehun Kim"
+        }, 
+        "name": "user.100001512.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001522", 
+            "date": "2013-02-25", 
+            "labelShort": "Jed Brubaker", 
+            "label": "Jed Brubaker"
+        }, 
+        "name": "user.100001522.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001538", 
+            "date": "2013-02-09", 
+            "labelShort": "Madeline E. Smith", 
+            "label": "Madeline E. Smith"
+        }, 
+        "name": "user.100001538.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001575", 
+            "date": "2013-02-16", 
+            "labelShort": "Jennifer Marlow", 
+            "label": "Jennifer Marlow"
+        }, 
+        "name": "user.100001575.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001597", 
+            "date": "2013-02-24", 
+            "labelShort": "Joon Suk Lee", 
+            "label": "Joon Suk Lee"
+        }, 
+        "name": "user.100001597.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001599", 
+            "date": "2013-02-18", 
+            "labelShort": "Bridget Kane", 
+            "label": "Bridget Kane"
+        }, 
+        "name": "user.100001599.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001601", 
+            "date": "2013-02-26", 
+            "labelShort": "Robin Brewer", 
+            "label": "Robin Brewer"
+        }, 
+        "name": "user.100001601.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001603", 
+            "date": "2013-02-15", 
+            "labelShort": "Robert Standefer", 
+            "label": "Robert Standefer"
+        }, 
+        "name": "user.100001603.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001606", 
+            "date": "2013-02-21", 
+            "labelShort": "Lisa ", 
+            "label": "Lisa "
+        }, 
+        "name": "user.100001606.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001609", 
+            "date": "2013-02-16", 
+            "labelShort": "Anne Oeldorf-Hirsch", 
+            "label": "Anne Oeldorf-Hirsch"
+        }, 
+        "name": "user.100001609.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001610", 
+            "date": "2013-02-16", 
+            "labelShort": "Rebecca Gray", 
+            "label": "Rebecca Gray"
+        }, 
+        "name": "user.100001610.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001614", 
+            "date": "2013-02-16", 
+            "labelShort": "Hannah Pileggi", 
+            "label": "Hannah Pileggi"
+        }, 
+        "name": "user.100001614.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001615", 
+            "date": "2013-02-16", 
+            "labelShort": "Stacy Blasiola", 
+            "label": "Stacy Blasiola"
+        }, 
+        "name": "user.100001615.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001616", 
+            "date": "2013-02-16", 
+            "labelShort": "Joshua Hailpern", 
+            "label": "Joshua Hailpern"
+        }, 
+        "name": "user.100001616.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001617", 
+            "date": "2013-02-16", 
+            "labelShort": "Steven Dow", 
+            "label": "Steven Dow"
+        }, 
+        "name": "user.100001617.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001622", 
+            "date": "2013-02-17", 
+            "labelShort": "Rob Miller", 
+            "label": "Rob Miller"
+        }, 
+        "name": "user.100001622.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001623", 
+            "date": "2013-02-17", 
+            "labelShort": "Dan Feng", 
+            "label": "Dan Feng"
+        }, 
+        "name": "user.100001623.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001626", 
+            "date": "2013-02-18", 
+            "labelShort": "Justin Cheng", 
+            "label": "Justin Cheng"
+        }, 
+        "name": "user.100001626.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001628", 
+            "date": "2013-02-18", 
+            "labelShort": "Paul Matthews", 
+            "label": "Paul Matthews"
+        }, 
+        "name": "user.100001628.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001629", 
+            "date": "2013-02-18", 
+            "labelShort": "Marcos Borges", 
+            "label": "Marcos Borges"
+        }, 
+        "name": "user.100001629.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001631", 
+            "date": "2013-02-25", 
+            "labelShort": "Steven Poltrock", 
+            "label": "Steven Poltrock"
+        }, 
+        "name": "user.100001631.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001634", 
+            "date": "2013-02-25", 
+            "labelShort": "Philippe Marrast", 
+            "label": "Philippe Marrast"
+        }, 
+        "name": "user.100001634.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001635", 
+            "date": "2013-02-24", 
+            "labelShort": "Tamara Heck", 
+            "label": "Tamara Heck"
+        }, 
+        "name": "user.100001635.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001636", 
+            "date": "2013-02-19", 
+            "labelShort": "Luke Hutton", 
+            "label": "Luke Hutton"
+        }, 
+        "name": "user.100001636.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001637", 
+            "date": "2013-02-26", 
+            "labelShort": "Pao Siangliulue", 
+            "label": "Pao Siangliulue"
+        }, 
+        "name": "user.100001637.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001640", 
+            "date": "2013-02-25", 
+            "labelShort": "Peyina Lin", 
+            "label": "Peyina Lin"
+        }, 
+        "name": "user.100001640.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001645", 
+            "date": "2013-02-22", 
+            "labelShort": "Nitesh Goyal", 
+            "label": "Nitesh Goyal"
+        }, 
+        "name": "user.100001645.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001648", 
+            "date": "2013-02-20", 
+            "labelShort": "Elisabeth Joyce", 
+            "label": "Elisabeth Joyce"
+        }, 
+        "name": "user.100001648.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001655", 
+            "date": "2013-02-24", 
+            "labelShort": "Tun LU", 
+            "label": "Tun LU"
+        }, 
+        "name": "user.100001655.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001657", 
+            "date": "2013-02-24", 
+            "labelShort": "Elizabeth Bonsignore", 
+            "label": "Elizabeth Bonsignore"
+        }, 
+        "name": "user.100001657.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001658", 
+            "date": "2013-02-22", 
+            "labelShort": "Kostas Kazakos", 
+            "label": "Kostas Kazakos"
+        }, 
+        "name": "user.100001658.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001659", 
+            "date": "2013-02-21", 
+            "labelShort": "Martin", 
+            "label": "Martin"
+        }, 
+        "name": "user.100001659.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001661", 
+            "date": "2013-02-21", 
+            "labelShort": "Angie Boyce", 
+            "label": "Angie Boyce"
+        }, 
+        "name": "user.100001661.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001662", 
+            "date": "2013-02-21", 
+            "labelShort": "Anupam Jain", 
+            "label": "Anupam Jain"
+        }, 
+        "name": "user.100001662.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001664", 
+            "date": "2013-02-26", 
+            "labelShort": "Leslie Wu", 
+            "label": "Leslie Wu"
+        }, 
+        "name": "user.100001664.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001667", 
+            "date": "2013-02-22", 
+            "labelShort": "Eden Litt", 
+            "label": "Eden Litt"
+        }, 
+        "name": "user.100001667.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001671", 
+            "date": "2013-02-24", 
+            "labelShort": "Sarah Tausch", 
+            "label": "Sarah Tausch"
+        }, 
+        "name": "user.100001671.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001676", 
+            "date": "2013-02-22", 
+            "labelShort": "Simon Knight", 
+            "label": "Simon Knight"
+        }, 
+        "name": "user.100001676.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001677", 
+            "date": "2013-02-22", 
+            "labelShort": "Yoon Suk", 
+            "label": "Yoon Suk"
+        }, 
+        "name": "user.100001677.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001678", 
+            "date": "2013-02-22", 
+            "labelShort": "Daisuke Asai", 
+            "label": "Daisuke Asai"
+        }, 
+        "name": "user.100001678.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001682", 
+            "date": "2013-02-23", 
+            "labelShort": "Akhila Mathur", 
+            "label": "Akhila Mathur"
+        }, 
+        "name": "user.100001682.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001683", 
+            "date": "2013-02-23", 
+            "labelShort": "Roberto Hoyle", 
+            "label": "Roberto Hoyle"
+        }, 
+        "name": "user.100001683.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001690", 
+            "date": "2013-02-23", 
+            "labelShort": "Hao-Chuan Wang", 
+            "label": "Hao-Chuan Wang"
+        }, 
+        "name": "user.100001690.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001695", 
+            "date": "2013-02-24", 
+            "labelShort": "Karyn Moffatt", 
+            "label": "Karyn Moffatt"
+        }, 
+        "name": "user.100001695.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001697", 
+            "date": "2013-02-24", 
+            "labelShort": "Cleidson de Souza", 
+            "label": "Cleidson de Souza"
+        }, 
+        "name": "user.100001697.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001699", 
+            "date": "2013-02-24", 
+            "labelShort": "Jinhyuk Choi", 
+            "label": "Jinhyuk Choi"
+        }, 
+        "name": "user.100001699.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001702", 
+            "date": "2013-02-25", 
+            "labelShort": "Kristoffer Hus\u00f8y", 
+            "label": "Kristoffer Hus\u00f8y"
+        }, 
+        "name": "user.100001702.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001703", 
+            "date": "2013-02-24", 
+            "labelShort": "Judith Ramey", 
+            "label": "Judith Ramey"
+        }, 
+        "name": "user.100001703.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001704", 
+            "date": "2013-02-24", 
+            "labelShort": "Jim Herbsleb", 
+            "label": "Jim Herbsleb"
+        }, 
+        "name": "user.100001704.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001707", 
+            "date": "2013-02-26", 
+            "labelShort": "Deagyu Lee", 
+            "label": "Deagyu Lee"
+        }, 
+        "name": "user.100001707.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001708", 
+            "date": "2013-02-24", 
+            "labelShort": "minjee park", 
+            "label": "minjee park"
+        }, 
+        "name": "user.100001708.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001709", 
+            "date": "2013-02-24", 
+            "labelShort": "Katie O\\'Donnell", 
+            "label": "Katie O\\'Donnell"
+        }, 
+        "name": "user.100001709.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001710", 
+            "date": "2013-02-24", 
+            "labelShort": "Theresa Velden", 
+            "label": "Theresa Velden"
+        }, 
+        "name": "user.100001710.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001712", 
+            "date": "2013-02-25", 
+            "labelShort": "Saad Alabbad", 
+            "label": "Saad Alabbad"
+        }, 
+        "name": "user.100001712.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001713", 
+            "date": "2013-02-24", 
+            "labelShort": "Pedro Alves", 
+            "label": "Pedro Alves"
+        }, 
+        "name": "user.100001713.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001715", 
+            "date": "2013-02-25", 
+            "labelShort": "Lewkowicz", 
+            "label": "Lewkowicz"
+        }, 
+        "name": "user.100001715.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001716", 
+            "date": "2013-02-24", 
+            "labelShort": "Seok-Hyung Bae", 
+            "label": "Seok-Hyung Bae"
+        }, 
+        "name": "user.100001716.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001719", 
+            "date": "2013-02-24", 
+            "labelShort": "Pablo Quinones", 
+            "label": "Pablo Quinones"
+        }, 
+        "name": "user.100001719.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001722", 
+            "date": "2013-02-25", 
+            "labelShort": "Mark Ackerman", 
+            "label": "Mark Ackerman"
+        }, 
+        "name": "user.100001722.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001724", 
+            "date": "2013-02-25", 
+            "labelShort": "Nazareno Andrade ", 
+            "label": "Nazareno Andrade "
+        }, 
+        "name": "user.100001724.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001725", 
+            "date": "2013-02-25", 
+            "labelShort": "Jonathan Morgan", 
+            "label": "Jonathan Morgan"
+        }, 
+        "name": "user.100001725.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001727", 
+            "date": "2013-02-25", 
+            "labelShort": "CJ Hutto", 
+            "label": "CJ Hutto"
+        }, 
+        "name": "user.100001727.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001729", 
+            "date": "2013-02-25", 
+            "labelShort": "Derek Hansen", 
+            "label": "Derek Hansen"
+        }, 
+        "name": "user.100001729.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001730", 
+            "date": "2013-02-26", 
+            "labelShort": "Michael Kaplan", 
+            "label": "Michael Kaplan"
+        }, 
+        "name": "user.100001730.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001731", 
+            "date": "2013-02-25", 
+            "labelShort": "Josh Introne", 
+            "label": "Josh Introne"
+        }, 
+        "name": "user.100001731.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001735", 
+            "date": "2013-02-25", 
+            "labelShort": "Anicia Peters", 
+            "label": "Anicia Peters"
+        }, 
+        "name": "user.100001735.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001736", 
+            "date": "2013-02-25", 
+            "labelShort": "Aaron Genest", 
+            "label": "Aaron Genest"
+        }, 
+        "name": "user.100001736.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001741", 
+            "date": "2013-02-25", 
+            "labelShort": "Ruiming Xie", 
+            "label": "Ruiming Xie"
+        }, 
+        "name": "user.100001741.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001746", 
+            "date": "2013-02-26", 
+            "labelShort": "Dario Taraborelli", 
+            "label": "Dario Taraborelli"
+        }, 
+        "name": "user.100001746.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001748", 
+            "date": "2013-02-25", 
+            "labelShort": "Juho Kim", 
+            "label": "Juho Kim"
+        }, 
+        "name": "user.100001748.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001755", 
+            "date": "2013-02-27", 
+            "labelShort": "Hwajung Hong", 
+            "label": "Hwajung Hong"
+        }, 
+        "name": "user.100001755.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&userID=100001758", 
+            "date": "2013-02-27", 
+            "labelShort": "Stefan Edler", 
+            "label": "Stefan Edler"
+        }, 
+        "name": "user.100001758.user"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3916", 
+            "date": "2013-01-17", 
+            "labelShort": "ACES: A Cross-Discipline Platf...", 
+            "label": "ACES: A Cross-Discipline Platform and Method for Communication and Language Research"
+        }, 
+        "name": "paper.6376.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3917", 
+            "date": "2013-01-08", 
+            "labelShort": "Revisiting the Relationship be...", 
+            "label": "Revisiting the Relationship between Reunion and Technology-Mediated Separation in Periodically Transitioning Families"
+        }, 
+        "name": "paper.6377.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3918", 
+            "date": "2012-12-14", 
+            "labelShort": "The role of Web 2.0 and Social...", 
+            "label": "The role of Web 2.0 and Social Media in the Tunisian Revolution: An Account from Sidi Bouzid"
+        }, 
+        "name": "paper.6378.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3919", 
+            "date": "2013-01-03", 
+            "labelShort": "The promise and peril of real-...", 
+            "label": "The promise and peril of real-time corrections to political misperceptions"
+        }, 
+        "name": "paper.6379.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3920", 
+            "date": "2013-01-04", 
+            "labelShort": "Collaborative Search Revisited...", 
+            "label": "Collaborative Search Revisited"
+        }, 
+        "name": "paper.6380.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3921", 
+            "date": "2013-01-04", 
+            "labelShort": "Exploring Pet Video Chat: The ...", 
+            "label": "Exploring Pet Video Chat: The Remote Awareness and Interaction Needs of Families with Dogs and Cats"
+        }, 
+        "name": "paper.6381.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3922", 
+            "date": "2013-01-04", 
+            "labelShort": "How and Why Teenagers Use Vide...", 
+            "label": "How and Why Teenagers Use Video Chat"
+        }, 
+        "name": "paper.6382.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3923", 
+            "date": "2013-01-08", 
+            "labelShort": "Form Factor Matters...", 
+            "label": "Form Factor Matters"
+        }, 
+        "name": "paper.6383.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3924", 
+            "date": "2013-01-04", 
+            "labelShort": "Sometimes When We Touch: How A...", 
+            "label": "Sometimes When We Touch: How Arm Embodiments Change Reaching and Collaboration on Digital Tables"
+        }, 
+        "name": "paper.6384.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3925", 
+            "date": "2013-01-04", 
+            "labelShort": "Understanding How the Projecti...", 
+            "label": "Understanding How the Projection of Availability State Impacts the Reception Incoming Communication"
+        }, 
+        "name": "paper.6385.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3926", 
+            "date": "2013-02-18", 
+            "labelShort": "Understanding informal communi...", 
+            "label": "Understanding informal communication in multlingual contexts"
+        }, 
+        "name": "paper.6386.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3927", 
+            "date": "2013-01-30", 
+            "labelShort": "Dependency-Conflict Detection ...", 
+            "label": "Dependency-Conflict Detection in Real-time Collaborative 3D Design Systems"
+        }, 
+        "name": "paper.6387.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3928", 
+            "date": "2013-01-04", 
+            "labelShort": "Who wants to know? Question-as...", 
+            "label": "Who wants to know? Question-asking and answering practices among Facebook users"
+        }, 
+        "name": "paper.6388.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3929", 
+            "date": "2013-01-08", 
+            "labelShort": "Indebtedness, Reciprocity, and...", 
+            "label": "Indebtedness, Reciprocity, and Fairness in Local Online Exchange"
+        }, 
+        "name": "paper.6389.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3930", 
+            "date": "2013-01-13", 
+            "labelShort": "Medication Management in the M...", 
+            "label": "Medication Management in the Making: On Ethnography-Design Relations"
+        }, 
+        "name": "paper.6390.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3931", 
+            "date": "2013-01-04", 
+            "labelShort": "Mutual Assessment in the Socia...", 
+            "label": "Mutual Assessment in the Social Programmer Ecosystem: An Empirical Investigation of Developer Profile Aggregators"
+        }, 
+        "name": "paper.6391.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3932", 
+            "date": "2013-01-14", 
+            "labelShort": "Pay by the Bit: An Information...", 
+            "label": "Pay by the Bit: An Information-Theoretic Metric for Collective Human Judgment"
+        }, 
+        "name": "paper.6392.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3933", 
+            "date": "2013-01-04", 
+            "labelShort": "KinectArms: a Toolkit for Capt...", 
+            "label": "KinectArms: a Toolkit for Capturing and Displaying Arm Embodiments in Distributed Tabletop Groupware"
+        }, 
+        "name": "paper.6393.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3934", 
+            "date": "2013-01-28", 
+            "labelShort": "Voluntary Turnover in a Distri...", 
+            "label": "Voluntary Turnover in a Distributed Work Setting: An Examination of the Role of Spatial Propinquity and Role Similarity in Project Affiliation Networks"
+        }, 
+        "name": "paper.6394.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3935", 
+            "date": "2013-01-11", 
+            "labelShort": "\"Welcome!\"\u009d: Social and Psycho...", 
+            "label": "\"Welcome!\"\u009d: Social and Psychological Predictors of Volunteer Socializers in Online Communities"
+        }, 
+        "name": "paper.6395.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3936", 
+            "date": "2013-01-04", 
+            "labelShort": "Friends FTW! Friendship and co...", 
+            "label": "Friends FTW! Friendship and competition in Halo: Reach"
+        }, 
+        "name": "paper.6396.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3937", 
+            "date": "2013-01-04", 
+            "labelShort": "Crowd vs. Crowd: Large-Scale C...", 
+            "label": "Crowd vs. Crowd: Large-Scale Cooperative Design through Open Team Competition"
+        }, 
+        "name": "paper.6397.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3938", 
+            "date": "2013-01-04", 
+            "labelShort": "Media Technologies and Learnin...", 
+            "label": "Media Technologies and Learning in the StarCraft eSport Community"
+        }, 
+        "name": "paper.6398.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3939", 
+            "date": "2013-01-03", 
+            "labelShort": "The Post that Wasn\\'t: Explori...", 
+            "label": "The Post that Wasn\\'t: Exploring Self-Censorship on Facebook"
+        }, 
+        "name": "paper.6399.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3940", 
+            "date": "2013-01-04", 
+            "labelShort": "Digital Neighborhood Watch: In...", 
+            "label": "Digital Neighborhood Watch: Investigating the Sharing of Camera Data amongst Neighbors"
+        }, 
+        "name": "paper.6400.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3941", 
+            "date": "2013-01-06", 
+            "labelShort": "Closure vs. Structural Holes: ...", 
+            "label": "Closure vs. Structural Holes: How Social Network Information and Culture Affect Choice of Collaborators"
+        }, 
+        "name": "paper.6401.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3942", 
+            "date": "2013-02-17", 
+            "labelShort": "Machine Translation vs. Common...", 
+            "label": "Machine Translation vs. Common Language: Effects on Idea Exchange in Cross-Lingual Groups"
+        }, 
+        "name": "paper.6402.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3943", 
+            "date": "2013-01-08", 
+            "labelShort": "Complementarity of Input Devic...", 
+            "label": "Complementarity of Input Devices to Achieve Knowledge Sharing in Meetings"
+        }, 
+        "name": "paper.6403.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3944", 
+            "date": "2013-01-08", 
+            "labelShort": "Come Drive with Me - An Ethnog...", 
+            "label": "Come Drive with Me - An Ethnographic Study of Driver-Passenger Pairs to Inform Future In-Car Assistance"
+        }, 
+        "name": "paper.6404.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3945", 
+            "date": "2013-02-19", 
+            "labelShort": "Radiator - Context propagation...", 
+            "label": "Radiator - Context propagation based on delayed aggregation"
+        }, 
+        "name": "paper.6405.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3946", 
+            "date": "2013-01-08", 
+            "labelShort": "Structures of Broken Ties: Exp...", 
+            "label": "Structures of Broken Ties: Exploring Unfollow Behavior on Twitter"
+        }, 
+        "name": "paper.6406.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3947", 
+            "date": "2013-01-24", 
+            "labelShort": "Investigating the Appropriaten...", 
+            "label": "Investigating the Appropriateness of Social Network Question Asking as a Resource for Blind Users"
+        }, 
+        "name": "paper.6407.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3948", 
+            "date": "2013-01-04", 
+            "labelShort": "Globally Distributed System De...", 
+            "label": "Globally Distributed System Developers: Their Trust Expectations and Processes"
+        }, 
+        "name": "paper.6408.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3949", 
+            "date": "2013-01-08", 
+            "labelShort": "Supporting a Sense of Connecte...", 
+            "label": "Supporting a Sense of Connectedness:  Meaningful Things in the Lives of New University Students"
+        }, 
+        "name": "paper.6409.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3950", 
+            "date": "2013-01-04", 
+            "labelShort": "Sensr: Evaluating A Flexible F...", 
+            "label": "Sensr: Evaluating A Flexible Framework for Authoring Mobile Data-Collection Tools for Citizen Science"
+        }, 
+        "name": "paper.6410.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3951", 
+            "date": "2013-01-08", 
+            "labelShort": "Butler Lies From Both Sides: A...", 
+            "label": "Butler Lies From Both Sides: Actions and Perceptions of Unavailability Management in Texting"
+        }, 
+        "name": "paper.6411.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3952", 
+            "date": "2013-01-06", 
+            "labelShort": "Recalibrating the Ratio: Enact...", 
+            "label": "Recalibrating the Ratio: Enacting Accountability in Intimate Relationships Using Shared Calendars"
+        }, 
+        "name": "paper.6412.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3953", 
+            "date": "2013-01-14", 
+            "labelShort": "Tea and Sympathy: Crafting Pos...", 
+            "label": "Tea and Sympathy: Crafting Positive New User Experiences on Wikipedia"
+        }, 
+        "name": "paper.6413.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3954", 
+            "date": "2013-01-04", 
+            "labelShort": "Mining Smartphone Data to Clas...", 
+            "label": "Mining Smartphone Data to Classify Life-Facets of Social Relationships"
+        }, 
+        "name": "paper.6414.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3955", 
+            "date": "2013-01-04", 
+            "labelShort": "Microblog Credibility Percepti...", 
+            "label": "Microblog Credibility Perceptions: Comparing the United States and China"
+        }, 
+        "name": "paper.6415.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3956", 
+            "date": "2013-01-08", 
+            "labelShort": "Local- universality: Designing...", 
+            "label": "Local- universality: Designing EMR to Support Localized Informal Documentation Practices"
+        }, 
+        "name": "paper.6416.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3957", 
+            "date": "2013-01-04", 
+            "labelShort": "XPointer: an X-Ray Telepointer...", 
+            "label": "XPointer: an X-Ray Telepointer for Relaxed-Space-Time WYSIWIS and Unconstrained Collaborative 3D Design Systems"
+        }, 
+        "name": "paper.6417.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3958", 
+            "date": "2013-02-20", 
+            "labelShort": "\"Could Someone Please Translat...", 
+            "label": "\"Could Someone Please Translate This?\"\u009d - Activity Analysis of Wikipedia Article Translation by Non-Experts"
+        }, 
+        "name": "paper.6418.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3959", 
+            "date": "2013-02-16", 
+            "labelShort": "Designing for Reflection and C...", 
+            "label": "Designing for Reflection and Collaboration to Support a Transition from Welfare to Work"
+        }, 
+        "name": "paper.6419.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3960", 
+            "date": "2013-01-22", 
+            "labelShort": "Drawing Practices in Image-Ena...", 
+            "label": "Drawing Practices in Image-Enabled Collaboration"
+        }, 
+        "name": "paper.6420.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3961", 
+            "date": "2013-01-08", 
+            "labelShort": "Lost in Transmittance: How Tra...", 
+            "label": "Lost in Transmittance: How Transmission Lag Enhances and Deteriorates Multilingual Collaboration"
+        }, 
+        "name": "paper.6421.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3962", 
+            "date": "2013-02-16", 
+            "labelShort": "Online Silk Road: Nurturing So...", 
+            "label": "Online Silk Road: Nurturing Social Search through Knowledge Bartering"
+        }, 
+        "name": "paper.6422.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3963", 
+            "date": "2013-01-06", 
+            "labelShort": "The Effect of Message Content ...", 
+            "label": "The Effect of Message Content on Communication Processes in Intercultural and Same-Culture Instant Messaging Conversations"
+        }, 
+        "name": "paper.6423.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3964", 
+            "date": "2013-01-04", 
+            "labelShort": "Social Navigation for Loosely-...", 
+            "label": "Social Navigation for Loosely-Coupled Information Seeking in Tightly-Knit Groups using WebWear"
+        }, 
+        "name": "paper.6424.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3965", 
+            "date": "2013-02-03", 
+            "labelShort": "Understanding Visual Attention...", 
+            "label": "Understanding Visual Attention of Teams in Dynamic Medical Settings through Vital Signs Monitor Use"
+        }, 
+        "name": "paper.6425.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3966", 
+            "date": "2013-01-08", 
+            "labelShort": "Statistical Affect Detection i...", 
+            "label": "Statistical Affect Detection in Collaborative Chat"
+        }, 
+        "name": "paper.6426.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3967", 
+            "date": "2013-01-08", 
+            "labelShort": "Mining Social Relationship Typ...", 
+            "label": "Mining Social Relationship Types in an Organization by using Communication Patterns"
+        }, 
+        "name": "paper.6427.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3968", 
+            "date": "2013-01-03", 
+            "labelShort": "What a Tangled Web We Weave: L...", 
+            "label": "What a Tangled Web We Weave: Lying Backfires in Location-Sharing Social Media"
+        }, 
+        "name": "paper.6428.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3969", 
+            "date": "2013-01-08", 
+            "labelShort": "Trend Makers and Trend Spotter...", 
+            "label": "Trend Makers and Trend Spotters in a Mobile Application"
+        }, 
+        "name": "paper.6429.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3970", 
+            "date": "2013-01-08", 
+            "labelShort": "The Mocking Gaze: The social o...", 
+            "label": "The Mocking Gaze: The social organisation of Kinect use"
+        }, 
+        "name": "paper.6430.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3971", 
+            "date": "2013-02-16", 
+            "labelShort": "Analysis of Factors Influencin...", 
+            "label": "Analysis of Factors Influencing the Response Rate in Social Q&A Behavior"
+        }, 
+        "name": "paper.6431.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3972", 
+            "date": "2013-01-03", 
+            "labelShort": "Shared decision making needs a...", 
+            "label": "Shared decision making needs a communication record"
+        }, 
+        "name": "paper.6432.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3973", 
+            "date": "2013-01-08", 
+            "labelShort": "An Exploration on Long-distanc...", 
+            "label": "An Exploration on Long-distance Communications between Left-behind Children and Their Parents in China"
+        }, 
+        "name": "paper.6433.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3974", 
+            "date": "2013-01-08", 
+            "labelShort": "Consequences of Content Divers...", 
+            "label": "Consequences of Content Diversity for Online Public Spaces for Local Communities"
+        }, 
+        "name": "paper.6434.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3975", 
+            "date": "2013-01-08", 
+            "labelShort": "Meanings and Boundaries of Sci...", 
+            "label": "Meanings and Boundaries of Scientific Software Sharing"
+        }, 
+        "name": "paper.6435.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3976", 
+            "date": "2013-01-09", 
+            "labelShort": "Supporting creative collaborat...", 
+            "label": "Supporting creative collaboration in globally distributed companies"
+        }, 
+        "name": "paper.6436.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3977", 
+            "date": "2013-02-18", 
+            "labelShort": "Re-Coordinating Activities: An...", 
+            "label": "Re-Coordinating Activities: An Investigation of Articulation Work during Patient Transfers"
+        }, 
+        "name": "paper.6437.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3978", 
+            "date": "2013-01-08", 
+            "labelShort": "Ubiquitous Crowd-sourcing into...", 
+            "label": "Ubiquitous Crowd-sourcing into Context"
+        }, 
+        "name": "paper.6438.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3979", 
+            "date": "2013-02-16", 
+            "labelShort": "Contributor profiles, their ev...", 
+            "label": "Contributor profiles, their evolution, and their importance in 5 Q&A sites"
+        }, 
+        "name": "paper.6439.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3980", 
+            "date": "2013-01-08", 
+            "labelShort": "Analyzing the Flow of Knowledg...", 
+            "label": "Analyzing the Flow of Knowledge in Computer Mediated Teams"
+        }, 
+        "name": "paper.6440.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3981", 
+            "date": "2013-01-09", 
+            "labelShort": "Redistributing Leadership in O...", 
+            "label": "Redistributing Leadership in Online Creative Collaboration"
+        }, 
+        "name": "paper.6441.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3982", 
+            "date": "2013-01-10", 
+            "labelShort": "Opportunities via Extended Net...", 
+            "label": "Opportunities via Extended Networks for Teens\\' Informal Learning"
+        }, 
+        "name": "paper.6442.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3983", 
+            "date": "2013-01-03", 
+            "labelShort": "An Online Experiment of Social...", 
+            "label": "An Online Experiment of Social Applications\\' Privacy Authorization Dialogues"
+        }, 
+        "name": "paper.6443.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3984", 
+            "date": "2013-01-04", 
+            "labelShort": "Analyzing the Quality of Infor...", 
+            "label": "Analyzing the Quality of Information Solicited from Targeted Strangers on Social Media"
+        }, 
+        "name": "paper.6444.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3985", 
+            "date": "2013-01-08", 
+            "labelShort": "Impression formation in common...", 
+            "label": "Impression formation in commons-based peer production:  Activity traces and personal profiles in GitHub"
+        }, 
+        "name": "paper.6445.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3986", 
+            "date": "2013-02-16", 
+            "labelShort": "To Answer or Not: What non-QA ...", 
+            "label": "To Answer or Not: What non-QA Social Activities can Tell"
+        }, 
+        "name": "paper.6446.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3987", 
+            "date": "2013-01-08", 
+            "labelShort": "Emergent Roles in Decision-Mak...", 
+            "label": "Emergent Roles in Decision-Making Tasks using Group Chat"
+        }, 
+        "name": "paper.6447.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3988", 
+            "date": "2013-01-08", 
+            "labelShort": "She Gets a Sports Car from Our...", 
+            "label": "She Gets a Sports Car from Our Donation: Rumor Transmission in a Chinese Microblogging Community"
+        }, 
+        "name": "paper.6448.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3989", 
+            "date": "2013-01-03", 
+            "labelShort": "Representation and communicati...", 
+            "label": "Representation and communication:  Challenges in interpreting large social media datasets"
+        }, 
+        "name": "paper.6449.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3990", 
+            "date": "2013-01-08", 
+            "labelShort": "\"Almost Touching:\"\u009d Parent-Chi...", 
+            "label": "\"Almost Touching:\"\u009d Parent-Child Remote Communication Using the ShareTable System"
+        }, 
+        "name": "paper.6450.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3991", 
+            "date": "2013-01-11", 
+            "labelShort": "Comparing the use of Social Ne...", 
+            "label": "Comparing the use of Social Networking and Traditional Media Channels for Promoting Citizen Science"
+        }, 
+        "name": "paper.6451.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3992", 
+            "date": "2013-01-08", 
+            "labelShort": "I Need Someone to Help! A Taxo...", 
+            "label": "I Need Someone to Help! A Taxonomy of People-Finding Activities in the Enterprise"
+        }, 
+        "name": "paper.6452.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3993", 
+            "date": "2013-01-06", 
+            "labelShort": "\"Facebook is a Luxury\"\u009d: An Ex...", 
+            "label": "\"Facebook is a Luxury\"\u009d: An Exploratory Study of Social Media Use in Rural Kenya"
+        }, 
+        "name": "paper.6453.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3994", 
+            "date": "2013-01-14", 
+            "labelShort": "From Organizational to Communi...", 
+            "label": "From Organizational to Community Creativity: Paragon Leadership & Creativity Stories at Etsy"
+        }, 
+        "name": "paper.6454.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3995", 
+            "date": "2013-01-08", 
+            "labelShort": "Going Digital:  Understanding ...", 
+            "label": "Going Digital:  Understanding Paper and Photo Documentation Practices in Early Childhood Education"
+        }, 
+        "name": "paper.6455.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3996", 
+            "date": "2013-01-09", 
+            "labelShort": "Audio-Enhanced Paper Photos:  ...", 
+            "label": "Audio-Enhanced Paper Photos:  Encouraging Social Interaction at Age 105"
+        }, 
+        "name": "paper.6456.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3997", 
+            "date": "2013-01-09", 
+            "labelShort": "The Role of Storytelling Onlin...", 
+            "label": "The Role of Storytelling Online in a Social Movement Organization"
+        }, 
+        "name": "paper.6457.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3998", 
+            "date": "2013-01-08", 
+            "labelShort": "Experiences2Go: Sharing Kids\\'...", 
+            "label": "Experiences2Go: Sharing Kids\\' Activities Outside the Home with Remote Family Members"
+        }, 
+        "name": "paper.6458.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=3999", 
+            "date": "2013-02-02", 
+            "labelShort": "Appropriation by Unanticipated...", 
+            "label": "Appropriation by Unanticipated Users: Looking Beyond Design Intent and Expected Use"
+        }, 
+        "name": "paper.6459.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4000", 
+            "date": "2013-01-04", 
+            "labelShort": "Real-time Crowd Labeling for D...", 
+            "label": "Real-time Crowd Labeling for Deployable Activity Recognition"
+        }, 
+        "name": "paper.6460.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4001", 
+            "date": "2013-01-03", 
+            "labelShort": "Finger On The Pulse: Identifyi...", 
+            "label": "Finger On The Pulse: Identifying Deprivation Using Transit Flow Analysis"
+        }, 
+        "name": "paper.6461.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4002", 
+            "date": "2013-01-08", 
+            "labelShort": "Designing Collaboration: Compa...", 
+            "label": "Designing Collaboration: Comparing Cases Exploring Cultural Probes as Boundary-Negotiating Objects"
+        }, 
+        "name": "paper.6462.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4003", 
+            "date": "2013-02-18", 
+            "labelShort": "Caring for Caregivers: Designi...", 
+            "label": "Caring for Caregivers: Designing for Integrality"
+        }, 
+        "name": "paper.6463.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4004", 
+            "date": "2013-01-08", 
+            "labelShort": "What\\'s Congress Doing on Twit...", 
+            "label": "What\\'s Congress Doing on Twitter?"
+        }, 
+        "name": "paper.6464.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4005", 
+            "date": "2013-01-08", 
+            "labelShort": "Working and Sustaining the Vir...", 
+            "label": "Working and Sustaining the Virtual \"Disaster Desk\""
+        }, 
+        "name": "paper.6465.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4006", 
+            "date": "2013-01-22", 
+            "labelShort": "The Work of Developing Cyberin...", 
+            "label": "The Work of Developing Cyberinfrastructure Middleware Projects"
+        }, 
+        "name": "paper.6466.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4007", 
+            "date": "2013-01-08", 
+            "labelShort": "Electric Agents:  Fostering si...", 
+            "label": "Electric Agents:  Fostering sibling joint media engagement through interactive television and augmented reality"
+        }, 
+        "name": "paper.6467.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4008", 
+            "date": "2013-01-06", 
+            "labelShort": "Trust in Online News: Comparin...", 
+            "label": "Trust in Online News: Comparing Social Media and Official Media Use by Chinese Citizens"
+        }, 
+        "name": "paper.6468.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4009", 
+            "date": "2013-01-04", 
+            "labelShort": "Co-Worker Transparency in a Mi...", 
+            "label": "Co-Worker Transparency in a Microtask Marketplace"
+        }, 
+        "name": "paper.6469.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4010", 
+            "date": "2013-01-09", 
+            "labelShort": "Using Facebook after losing a ...", 
+            "label": "Using Facebook after losing a job: Differential benefits of strong and weak ties"
+        }, 
+        "name": "paper.6470.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4011", 
+            "date": "2013-01-04", 
+            "labelShort": "Personality-targeted design: t...", 
+            "label": "Personality-targeted design: theory, experimental procedure, and preliminary results"
+        }, 
+        "name": "paper.6471.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4012", 
+            "date": "2013-01-14", 
+            "labelShort": "Enhancing Reliability Using Pe...", 
+            "label": "Enhancing Reliability Using Peer Consistency Evaluation in Human Computation"
+        }, 
+        "name": "paper.6472.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4013", 
+            "date": "2013-02-15", 
+            "labelShort": "Managing Mobile Multitasking: ...", 
+            "label": "Managing Mobile Multitasking: The Culture of iPhones on (Anon) Campus"
+        }, 
+        "name": "paper.6473.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4014", 
+            "date": "2013-01-08", 
+            "labelShort": "Major Life Changes and Behavio...", 
+            "label": "Major Life Changes and Behavioral Markers in Social Media: Case of Childbirth"
+        }, 
+        "name": "paper.6474.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4015", 
+            "date": "2013-01-08", 
+            "labelShort": "Understanding Affect in the Wo...", 
+            "label": "Understanding Affect in the Workplace via Social Media"
+        }, 
+        "name": "paper.6475.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4016", 
+            "date": "2013-01-09", 
+            "labelShort": "Your Process Is Showing: Contr...", 
+            "label": "Your Process Is Showing: Controversy Management and Perceived Quality in Wikipedia"
+        }, 
+        "name": "paper.6476.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4017", 
+            "date": "2013-01-04", 
+            "labelShort": "Managing Email Overload throug...", 
+            "label": "Managing Email Overload through Crowd-Assisted Task Extraction"
+        }, 
+        "name": "paper.6477.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4018", 
+            "date": "2013-01-09", 
+            "labelShort": "\"Back and Forth, Back and Fort...", 
+            "label": "\"Back and Forth, Back and Forth\"\u009d: Channel Switching in Romantic Couple Conflict"
+        }, 
+        "name": "paper.6478.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4019", 
+            "date": "2013-01-08", 
+            "labelShort": "The New War Correspondents: th...", 
+            "label": "The New War Correspondents: the Rise of Civic Media Curation in the Mexican Drug War"
+        }, 
+        "name": "paper.6479.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4020", 
+            "date": "2013-01-14", 
+            "labelShort": "Beyond Trust and Reliability: ...", 
+            "label": "Beyond Trust and Reliability: Reusing Data in Collaborative Cancer Epidemiology Research"
+        }, 
+        "name": "paper.6480.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4021", 
+            "date": "2013-01-04", 
+            "labelShort": "Functional or Social? Explorin...", 
+            "label": "Functional or Social? Exploring Teams in Online Games"
+        }, 
+        "name": "paper.6481.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4022", 
+            "date": "2013-01-06", 
+            "labelShort": "Doodle Around the World: Onlin...", 
+            "label": "Doodle Around the World: Online Scheduling Behavior Reflects Cultural Differences in Time Perception and Group Decision-Making"
+        }, 
+        "name": "paper.6482.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4023", 
+            "date": "2013-02-18", 
+            "labelShort": "I want to be Sachin Tendulkar!...", 
+            "label": "I want to be Sachin Tendulkar! A Spoken English Cricket Game for Rural Students"
+        }, 
+        "name": "paper.6483.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4024", 
+            "date": "2013-01-03", 
+            "labelShort": "Privacy Management in Dynamic ...", 
+            "label": "Privacy Management in Dynamic Groups: Understanding Information Privacy in Medical Practices"
+        }, 
+        "name": "paper.6484.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4025", 
+            "date": "2013-01-06", 
+            "labelShort": "Community-oriented spoken web ...", 
+            "label": "Community-oriented spoken web browser for low literate users"
+        }, 
+        "name": "paper.6485.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4026", 
+            "date": "2013-01-16", 
+            "labelShort": "Arguments about Deletion: How ...", 
+            "label": "Arguments about Deletion: How Experience Improves the Acceptability of Arguments in Ad-hoc Online Task Groups"
+        }, 
+        "name": "paper.6486.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4027", 
+            "date": "2013-01-14", 
+            "labelShort": "Quality Control Mechanisms for...", 
+            "label": "Quality Control Mechanisms for Crowdsourcing: Peer Review, Arbitration, & Expertise at FamilySearch Indexing"
+        }, 
+        "name": "paper.6487.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4028", 
+            "date": "2013-01-09", 
+            "labelShort": "Intersubjectivity in Open Sour...", 
+            "label": "Intersubjectivity in Open Source Software Development: Expansive Grounding in Distributed Work"
+        }, 
+        "name": "paper.6488.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4029", 
+            "date": "2013-01-04", 
+            "labelShort": "ExerSync: Facilitating Interpe...", 
+            "label": "ExerSync: Facilitating Interpersonal Synchrony in Social Exergames"
+        }, 
+        "name": "paper.6489.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4030", 
+            "date": "2013-01-08", 
+            "labelShort": "Why CSCW Needs Science Policy ...", 
+            "label": "Why CSCW Needs Science Policy (and Vice-Versa)"
+        }, 
+        "name": "paper.6490.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4031", 
+            "date": "2013-01-09", 
+            "labelShort": "Making Peripheral Participatio...", 
+            "label": "Making Peripheral Participation Legitimate: Reader engagement experiments in Wikipedia"
+        }, 
+        "name": "paper.6491.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4032", 
+            "date": "2013-02-16", 
+            "labelShort": "Engaging robots: Easing comple...", 
+            "label": "Engaging robots: Easing complex human-robot teamwork using backchanneling"
+        }, 
+        "name": "paper.6492.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4033", 
+            "date": "2013-01-04", 
+            "labelShort": "Photographer Paths: Sequence A...", 
+            "label": "Photographer Paths: Sequence Alignment of Geotagged Photos for Exploration-based Route Planning"
+        }, 
+        "name": "paper.6493.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4034", 
+            "date": "2013-01-11", 
+            "labelShort": "Keeping Eyes on the Prize: Off...", 
+            "label": "Keeping Eyes on the Prize: Officially Sanctioned Rule Breaking  in Mass Collaboration Systems"
+        }, 
+        "name": "paper.6494.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4035", 
+            "date": "2013-01-16", 
+            "labelShort": "Using Edit Sessions to Measure...", 
+            "label": "Using Edit Sessions to Measure Participation in Wikipedia"
+        }, 
+        "name": "paper.6495.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4036", 
+            "date": "2013-01-04", 
+            "labelShort": "The Future of Crowd Work...", 
+            "label": "The Future of Crowd Work"
+        }, 
+        "name": "paper.6496.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4037", 
+            "date": "2013-01-14", 
+            "labelShort": "Explaining Field Differences i...", 
+            "label": "Explaining Field Differences in Openness and Sharing in Scientific Communities"
+        }, 
+        "name": "paper.6497.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4038", 
+            "date": "2013-01-09", 
+            "labelShort": "The cost of collaboration for ...", 
+            "label": "The cost of collaboration for code and art: Evidence from a remixing community"
+        }, 
+        "name": "paper.6498.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4039", 
+            "date": "2013-01-23", 
+            "labelShort": "A Multi-level Analysis of the ...", 
+            "label": "A Multi-level Analysis of the impact of Shared Leadership in Diverse Virtual Teams"
+        }, 
+        "name": "paper.6499.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4040", 
+            "date": "2013-01-03", 
+            "labelShort": "Non-Static Nature of Patient C...", 
+            "label": "Non-Static Nature of Patient Consent: Shifting Privacy Perspectives in Health Information Sharing"
+        }, 
+        "name": "paper.6500.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4041", 
+            "date": "2013-01-08", 
+            "labelShort": "Virtually Dining Together in T...", 
+            "label": "Virtually Dining Together in Time-Shifted Environment: KIZUNA Design"
+        }, 
+        "name": "paper.6501.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4042", 
+            "date": "2013-01-08", 
+            "labelShort": "Designing an Effective Vibrati...", 
+            "label": "Designing an Effective Vibration-Based Notification Interface for Mobile Phones"
+        }, 
+        "name": "paper.6502.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4043", 
+            "date": "2013-01-08", 
+            "labelShort": "Tweets Are Forever: A Large-Sc...", 
+            "label": "Tweets Are Forever: A Large-Scale Quantitative Analysis of Deleted Tweets"
+        }, 
+        "name": "paper.6503.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4044", 
+            "date": "2013-01-04", 
+            "labelShort": "Exploring Remembrance and Soci...", 
+            "label": "Exploring Remembrance and Social Support Behavior in an Online Bereavement Support Group"
+        }, 
+        "name": "paper.6504.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4045", 
+            "date": "2013-01-08", 
+            "labelShort": "Widespread Underprovision on a...", 
+            "label": "Widespread Underprovision on a Social Voting Site"
+        }, 
+        "name": "paper.6505.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4046", 
+            "date": "2013-01-08", 
+            "labelShort": "What is a file?...", 
+            "label": "What is a file?"
+        }, 
+        "name": "paper.6506.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4047", 
+            "date": "2013-02-18", 
+            "labelShort": "Free as in Puppies: Compensati...", 
+            "label": "Free as in Puppies: Compensating for ICT Constraints in Citizen Science"
+        }, 
+        "name": "paper.6507.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4048", 
+            "date": "2013-01-09", 
+            "labelShort": "Activity traces and signals in...", 
+            "label": "Activity traces and signals in software developer recruitment and hiring"
+        }, 
+        "name": "paper.6508.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4049", 
+            "date": "2013-01-03", 
+            "labelShort": "User-Centric Evaluation of a K...", 
+            "label": "User-Centric Evaluation of a K-Furthest Neighbor Collaborative Filtering Recommender Algorithm"
+        }, 
+        "name": "paper.6509.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4050", 
+            "date": "2013-02-18", 
+            "labelShort": "Uses & Gratifications of a Fac...", 
+            "label": "Uses & Gratifications of a Facebook Media Sharing Group"
+        }, 
+        "name": "paper.6510.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4051", 
+            "date": "2013-01-08", 
+            "labelShort": "Is News Sharing on Twitter Ide...", 
+            "label": "Is News Sharing on Twitter Ideologically Biased?"
+        }, 
+        "name": "paper.6511.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4052", 
+            "date": "2013-01-03", 
+            "labelShort": "Combining Social Information f...", 
+            "label": "Combining Social Information for Academic Networking"
+        }, 
+        "name": "paper.6512.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4053", 
+            "date": "2013-01-04", 
+            "labelShort": "Sharing the spoils: incentives...", 
+            "label": "Sharing the spoils: incentives and collaboration in scientific software development"
+        }, 
+        "name": "paper.6513.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4054", 
+            "date": "2013-01-03", 
+            "labelShort": "Users and Nonusers: Interactio...", 
+            "label": "Users and Nonusers: Interactions between Levels of Adoption and Social Capital"
+        }, 
+        "name": "paper.6514.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4055", 
+            "date": "2013-01-03", 
+            "labelShort": "Path dependent network advanta...", 
+            "label": "Path dependent network advantage"
+        }, 
+        "name": "paper.6515.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4056", 
+            "date": "2013-02-16", 
+            "labelShort": "Break...", 
+            "label": "Break"
+        }, 
+        "name": "paper.6516.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4061", 
+            "date": "2013-02-16", 
+            "labelShort": "Lunch...", 
+            "label": "Lunch"
+        }, 
+        "name": "paper.6517.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4064", 
+            "date": "2013-01-04", 
+            "labelShort": "Micro-volunteering: Helping th...", 
+            "label": "Micro-volunteering: Helping the Helpers in Development"
+        }, 
+        "name": "paper.6518.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4066", 
+            "date": "2013-01-08", 
+            "labelShort": "Community, impact and credit...", 
+            "label": "Community, impact and credit"
+        }, 
+        "name": "paper.6519.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4065", 
+            "date": "2013-01-03", 
+            "labelShort": "Bursting Your (Filter) Bubble:...", 
+            "label": "Bursting Your (Filter) Bubble: Strategies for Promoting Diverse Exposure"
+        }, 
+        "name": "paper.6520.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4067", 
+            "date": "2013-02-16", 
+            "labelShort": "Special Session: CSCW Town Hal...", 
+            "label": "Special Session: CSCW Town Hall"
+        }, 
+        "name": "paper.6521.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4068", 
+            "date": "2013-01-03", 
+            "labelShort": "Grouplens: an open architectur...", 
+            "label": "Grouplens: an open architecture for collaborative filtering of netnews (CSCW 1994)"
+        }, 
+        "name": "paper.6522.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4069", 
+            "date": "2013-01-03", 
+            "labelShort": "Closing Plenary: Jascha Frankl...", 
+            "label": "Closing Plenary: Jascha Franklin-Hodge"
+        }, 
+        "name": "paper.6523.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4070", 
+            "date": "2013-02-15", 
+            "labelShort": "YPhone: Applying Generation Y ...", 
+            "label": "YPhone: Applying Generation Y Interactions into an Office Context"
+        }, 
+        "name": "paper.6606.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4072", 
+            "date": "2013-02-21", 
+            "labelShort": "Public Spheres: Ideas Taking S...", 
+            "label": "Public Spheres: Ideas Taking Shape"
+        }, 
+        "name": "paper.6608.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4073", 
+            "date": "2013-02-02", 
+            "labelShort": "A Social Crowd-Controlled Orch...", 
+            "label": "A Social Crowd-Controlled Orchestra"
+        }, 
+        "name": "paper.6609.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4075", 
+            "date": "2013-02-23", 
+            "labelShort": "Geowiki + Route Analysis = Imp...", 
+            "label": "Geowiki + Route Analysis = Improved Transportation Planning"
+        }, 
+        "name": "paper.6611.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4077", 
+            "date": "2013-02-17", 
+            "labelShort": "Augmented Virtual Identities -...", 
+            "label": "Augmented Virtual Identities - Facilitating Rehabilitation and Societal Reconnect"
+        }, 
+        "name": "paper.6613.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4078", 
+            "date": "2013-02-18", 
+            "labelShort": "Ding-Dong: A Marriage Partner-...", 
+            "label": "Ding-Dong: A Marriage Partner-Finding System with Social Support"
+        }, 
+        "name": "paper.6614.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4079", 
+            "date": "2013-02-23", 
+            "labelShort": "Explorations of Geocaching in ...", 
+            "label": "Explorations of Geocaching in the Virtual World of Second Life"
+        }, 
+        "name": "paper.6615.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4080", 
+            "date": "2013-02-24", 
+            "labelShort": "The Effect of Interaction Moda...", 
+            "label": "The Effect of Interaction Modality for Facial-constrained Robots in Domestic Environment"
+        }, 
+        "name": "paper.6616.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4081", 
+            "date": "2013-02-16", 
+            "labelShort": "Network Effects and Valuing So...", 
+            "label": "Network Effects and Valuing Social Network Services"
+        }, 
+        "name": "paper.6617.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4083", 
+            "date": "2013-02-18", 
+            "labelShort": "Preliminary User Study for Gra...", 
+            "label": "Preliminary User Study for Gratitude and Reciprocity in a Q&A System"
+        }, 
+        "name": "paper.6619.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4084", 
+            "date": "2013-01-22", 
+            "labelShort": "\"I\\'d have to vote against you...", 
+            "label": "\"I\\'d have to vote against you\": Issue Campaigning via Twitter "
+        }, 
+        "name": "paper.6620.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4085", 
+            "date": "2013-02-02", 
+            "labelShort": "On the Openness, Quality and D...", 
+            "label": "On the Openness, Quality and Diversity of Social Interaction on Facebook: An Exploratory Survey"
+        }, 
+        "name": "paper.6621.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4087", 
+            "date": "2013-02-25", 
+            "labelShort": "Understanding the Potential of...", 
+            "label": "Understanding the Potential of Social Questions in the Web Search"
+        }, 
+        "name": "paper.6623.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4088", 
+            "date": "2013-02-16", 
+            "labelShort": "Motivating Crowds Using Social...", 
+            "label": "Motivating Crowds Using Social Facilitation and Social Transparency"
+        }, 
+        "name": "paper.6624.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4089", 
+            "date": "2013-02-18", 
+            "labelShort": "Coordination in Highly-Special...", 
+            "label": "Coordination in Highly-Specialized Care Networks"
+        }, 
+        "name": "paper.6625.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4090", 
+            "date": "2013-01-27", 
+            "labelShort": "The Militarization of Teamwork...", 
+            "label": "The Militarization of Teamwork in Alternate Reality Gaming"
+        }, 
+        "name": "paper.6626.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4091", 
+            "date": "2013-02-02", 
+            "labelShort": "How to Support Coordination th...", 
+            "label": "How to Support Coordination through Annotations? A Longitudinal Case Study of Nurses\\' Work in an Oncology Hospital"
+        }, 
+        "name": "paper.6627.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4094", 
+            "date": "2013-01-22", 
+            "labelShort": "A 3D Approach to Recommender S...", 
+            "label": "A 3D Approach to Recommender System Evaluation"
+        }, 
+        "name": "paper.6630.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4095", 
+            "date": "2013-02-02", 
+            "labelShort": "Bridging the Digital Divide th...", 
+            "label": "Bridging the Digital Divide through Facebook Friendships: A Cross-Cultural Study"
+        }, 
+        "name": "paper.6631.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4096", 
+            "date": "2013-02-25", 
+            "labelShort": "A Serious Game Supporting Coll...", 
+            "label": "A Serious Game Supporting Collaboration"
+        }, 
+        "name": "paper.6632.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4097", 
+            "date": "2013-02-02", 
+            "labelShort": "An Input-Process-Output Model ...", 
+            "label": "An Input-Process-Output Model of Shared Understanding in Partially Distributed Conceptual Design Teams"
+        }, 
+        "name": "paper.6633.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4098", 
+            "date": "2013-02-02", 
+            "labelShort": "Facilitating Students\\' Collab...", 
+            "label": "Facilitating Students\\' Collaboration and Learning in a Question and Answer System"
+        }, 
+        "name": "paper.6634.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4099", 
+            "date": "2013-02-02", 
+            "labelShort": "Gracoli: A Graphical Command L...", 
+            "label": "Gracoli: A Graphical Command Line User Interface"
+        }, 
+        "name": "paper.6635.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4100", 
+            "date": "2013-02-06", 
+            "labelShort": "#TwitterPlay: a Case Study of ...", 
+            "label": "#TwitterPlay: a Case Study of Fan Roleplaying Online"
+        }, 
+        "name": "paper.6636.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4104", 
+            "date": "2013-01-28", 
+            "labelShort": "Catching Fish in the Stream: R...", 
+            "label": "Catching Fish in the Stream: Real Time Analysis of Audience Behavior in Social Media"
+        }, 
+        "name": "paper.6640.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4105", 
+            "date": "2013-02-02", 
+            "labelShort": "A Content Analysis of WikiProj...", 
+            "label": "A Content Analysis of WikiProject Discussions: Toward a Typology of Coordination Language Used by Virtual Teams"
+        }, 
+        "name": "paper.6641.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4106", 
+            "date": "2013-01-23", 
+            "labelShort": "Herding in Open Source Softwar...", 
+            "label": "Herding in Open Source Software Development: An Exploratory Study"
+        }, 
+        "name": "paper.6642.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4107", 
+            "date": "2013-02-26", 
+            "labelShort": "Head-mounted and Multi-surface...", 
+            "label": "Head-mounted and Multi-surface Displays Support Emergency Medical Teams"
+        }, 
+        "name": "paper.6643.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4108", 
+            "date": "2013-02-23", 
+            "labelShort": "Indicoder: An Extensible Syste...", 
+            "label": "Indicoder: An Extensible System for Online Annotation"
+        }, 
+        "name": "paper.6644.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4109", 
+            "date": "2013-02-25", 
+            "labelShort": "Tools for Predicting Drop-off ...", 
+            "label": "Tools for Predicting Drop-off in Large Online Classes"
+        }, 
+        "name": "paper.6645.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4693", 
+            "date": "2013-02-24", 
+            "labelShort": "ResearchBroker: Connecting Res...", 
+            "label": "ResearchBroker: Connecting Researchers to Real-World Research Opportunities"
+        }, 
+        "name": "paper.7805.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4694", 
+            "date": "2013-02-27", 
+            "labelShort": "Next Step \u2013 an Online Communit...", 
+            "label": "Next Step \u2013 an Online Community to Support Parents in their Transition to Work"
+        }, 
+        "name": "paper.7806.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4696", 
+            "date": "2013-02-25", 
+            "labelShort": "Leveraging Partner\u2019s Insights ...", 
+            "label": "Leveraging Partner\u2019s Insights for Distributed Collaborative Sensemaking"
+        }, 
+        "name": "paper.7808.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4697", 
+            "date": "2013-02-25", 
+            "labelShort": "Truthy: Enabling the Study of ...", 
+            "label": "Truthy: Enabling the Study of Online Social Networks"
+        }, 
+        "name": "paper.7809.talk"
+    }, 
+    {
+        "imports": [], 
+        "data": {
+            "url": "halley.exp.sis.pitt.edu/cn3/presentation2.php?conferenceID=97&presentationID=4700", 
+            "date": "2013-02-25", 
+            "labelShort": "PopCore: A System for Network-...", 
+            "label": "PopCore: A System for Network-Centric Recommendation"
+        }, 
+        "name": "paper.7812.talk"
+    }
+]
